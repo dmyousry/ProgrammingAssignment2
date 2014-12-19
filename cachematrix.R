@@ -19,7 +19,7 @@ makeCacheMatrix <- function(x = matrix()) {
        getmatrixinverse = getmatrixinverse)
 }
 
-
+    
 
 ##Function to check if inverse is cached or not, and if cached, it returns it,
 ##if not, it calculates it and sets it in the cache
